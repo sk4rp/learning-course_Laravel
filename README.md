@@ -3,5 +3,6 @@
 1) Запустить миграции + создать базу
 2) Запустить seeders 
 
-admin@gmail.com - admin
+<hr>
+admin@gmail.com - admin <br>
 user@gmail.com - user
